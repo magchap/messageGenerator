@@ -8,5 +8,5 @@ This is a simple JavaScript file that creates a random message each time the use
 
 Simply run the file in node and it will return a message in the below format:
 
-> 'Tonight you should drink a COUNTRY GRAPE VARIETY from VINTAGE. Enjoy!
+> 'Tonight you should drink a "COUNTRY" "GRAPE VARIETY" from "VINTAGE". Enjoy!'
 
